@@ -1,4 +1,4 @@
-# Enterprise Analytics & Business Intelligence Power BI Dashboard
+# Enterprise Analytics & Business Intelligence Dashboard
 
 An advanced, production-ready **Power BI Report** designed for deep data exploration, multi-faceted business performance tracking, and interactive executive decision-making. This repository uses the modern Power BI Project (`.pbip`) format, enabling version control, code review, and seamless collaboration.
 
